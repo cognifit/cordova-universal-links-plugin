@@ -1,4 +1,6 @@
 # Change Log
+## 1.2.2-cognifit (2018-7-6)
+Fix AndroidManifest route in manifestWriter.js for latest cordova android platform (7.1.0);
 
 ## 1.2.1 (2016-10-23)
 
